@@ -142,7 +142,7 @@ p {
 }
 
 
-/*  */
+/* class  selector been used and  related to main section of the page  and contains 3 section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -170,7 +170,6 @@ p {
     color: #ffffff;
 }
 
-/* these images related to main section of the page  */
 .search-engine-optimization img {
     max-height: 200px;
 }
