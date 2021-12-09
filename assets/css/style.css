@@ -12,6 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+<<<<<<< HEAD
    
 }
 
@@ -31,6 +32,21 @@ body {
 }
 /* This is element selector related d to header section which include nav bar with ul element with three listed lis */
 .header nav {
+=======
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+.header div {
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,11 +54,19 @@ body {
     font-size: 20px;
 }
 
+<<<<<<< HEAD
 .header nav ul {
     list-style-type: none;
 }
 
 .header nav ul li {
+=======
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
     display: inline-block;
     margin-left: 25px;
 }
@@ -52,20 +76,34 @@ a {
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 
 /* Element selector tag enlcosed for paragraph forn size */
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 p {
     font-size: 16px;
 }
 
+<<<<<<< HEAD
 /* This is a class selector related include image dimension for the main image */
 .hero {
     margin-bottom: 25px;
+=======
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
     background-size: cover;
     background-position: center;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,7 +120,10 @@ p {
     margin-left: 20px;
 }
 
+<<<<<<< HEAD
 /* This section relates to aside and contain */
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -142,8 +183,11 @@ p {
     max-width: 150px;
 }
 
+<<<<<<< HEAD
 
 /*  */
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -171,7 +215,10 @@ p {
     color: #ffffff;
 }
 
+<<<<<<< HEAD
 /* these images related to main section of the page  */
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -199,7 +246,10 @@ p {
     font-size: 36px;
 }
 
+<<<<<<< HEAD
 /* Footer */
+=======
+>>>>>>> bced0d7f278f4265446787b62c21fbd1758ece2a
 .footer {
     padding: 30px;
     clear: both;
