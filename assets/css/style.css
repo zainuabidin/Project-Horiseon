@@ -54,8 +54,13 @@ a {
 
 
 /* Element selector tag enlcosed for paragraph forn size */
+
 p {
     font-size: 16px;
+}
+.main{
+    display:flex;
+    margin-left: 20px;
 }
 
 /* This is a class selector related include image dimension for the main image */
@@ -64,7 +69,9 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+.left{
+    max-width:75%;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,9 +90,8 @@ p {
 
 /* This section relates to aside and contain */
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
+    margin-inline: 20px;
+    padding: 50px;
     float: right;
     width: 20%;
     height: 100%;
