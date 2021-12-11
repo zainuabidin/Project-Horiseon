@@ -65,15 +65,17 @@ a {
 
 /* Element selector tag enclosed for paragraph font size size */
 
-
-.main {
+p {
+    font-size: 16px;
+}
+.main{
     display:flex;
     margin-left: 20px;
-    .
+    
 }
 
-.p {
-    font-size: 30px;
+.main p {
+    font size: 16px;
 }
 
 .left{
@@ -104,6 +106,8 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    display: block;
+    
 }
 
 .benefit-lead {
