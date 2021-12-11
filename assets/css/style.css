@@ -29,7 +29,7 @@ body {
     
 
 }
-/* This is element selector related d to header section which include nav bar with ul element with three listed lis */
+/* This is element selector related  to header section which include nav bar with ul element with three listed lis and a tag */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -53,22 +53,29 @@ a {
 }
 
 
-/* Element selector tag enclosed for paragraph font size size */
 
-p {
-    font-size: 16px;
-}
-.main{
-    display:flex;
-    margin-left: 20px;
-}
 
 /* This is a class selector related include image dimension for the main image */
-.hero {
+.picture {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
 }
+
+
+/* Element selector tag enclosed for paragraph font size size */
+
+
+.main {
+    display:flex;
+    margin-left: 20px;
+    .
+}
+
+.p {
+    font-size: 30px;
+}
+
 .left{
     max-width:75%;
 }
@@ -90,7 +97,7 @@ p {
 
 /* This section relates to aside and contain */
 .benefits {
-    margin-inline: 20px;
+    margin-left: 40px;
     padding: 50px;
     float: right;
     width: 20%;
